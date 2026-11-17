@@ -1,0 +1,6 @@
+BACKGROUND #ff007f
+ELLIPSESHAPE x=222.0 y=164.0 w=241.0 h=100.0 pen=#55ffff fill=#005500 width=2 rotation=0
+ELLIPSESHAPE x=199.0 y=345.0 w=166.0 h=96.0 pen=#55ffff fill=#005500 width=2 rotation=0
+TRIANGLESHAPE x=416.6299854635 y=339.1729463056978 w=177.37001453649998 h=85.82705369430221 pen=#55ffff fill=#ffff00 width=2 rotation=0
+PARALLELOGRAMSHAPE x=76.0 y=246.0 w=119.67713502065703 h=57.0 pen=#55ffff fill=#005500 width=2 rotation=0
+PARALLELOGRAMSHAPE x=442.0 y=622.0 w=3.9805806756909305 h=5.0 pen=#000000 fill=#aaaa00 width=2 rotation=0
